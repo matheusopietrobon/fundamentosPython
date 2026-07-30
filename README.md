@@ -53,3 +53,17 @@ Aqui está a organização do meu aprendizado, passo a passo:
 ## 🚀 Como clonar e rodar na sua máquina
 
 Quer testar os códigos ou rodar os exercícios? É fácil:
+Saída de código
+README moderno gerado com sucesso!
+
+```bash
+# 1. Clone este repositório
+git clone [https://github.com/matheusopietrobon/fundamentosPython.git](https://github.com/matheusopietrobon/fundamentosPython.git)
+
+# 2. Acesse a pasta do projeto
+cd fundamentosPython
+
+# 3. Abra no VS Code (ou inicie o Jupyter)
+code .
+# ou
+jupyter notebook
