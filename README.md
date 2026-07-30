@@ -8,9 +8,13 @@ readme_content = """# <h1 align="center">⚡ Fundamentos de Python 🚀</h1>
   <img src="https://img.shields.io/badge/Level-Dev%20Iniciante-blueviolet?style=for-the-badge" alt="Level Badge" />
 </p>
 
-<p align="center">
-  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
-</p>
+<div align="center">
+
+> **"Talk is cheap. Show me the code."**
+>
+> **— Linus Torvalds**
+
+</div>
 
 ---
 
